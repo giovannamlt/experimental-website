@@ -1,0 +1,64 @@
+/* GLOBAL STYLES
+------------------------------------------------ */
+body {
+  font-family: 'Prompt', sans-serif;
+  color: #303030;
+  background: #E0E0E0;
+
+  padding: 10px 20px 10px 20px;
+  margin: 10px;
+}
+h1,
+h2 {
+  font-family: 'GFS Didot', serif;
+  text-transform: uppercase;
+}
+a {
+  color: #303030;
+  text-decoration: none;
+}
+header,
+nav,
+main {
+  padding: 20px 30px;
+}
+
+nav {
+  float: right;
+}
+nav a {
+  padding: 20px;
+}
+
+
+/* HEADER STYLES
+------------------------------------------------ */
+h1 {
+  color: #121212;
+  font-size: 48px;
+}
+h2 {
+  color: #59ADB2;
+  font-size: 30px;
+}
+h3 {
+  color: #303030;
+  font-size: 18px;
+}
+
+
+/* HOMEPAGE STYLES
+-----------------------------------------*/
+.home {
+background-image: url("../images/marble-background.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+
+/* CV STYLES
+-----------------------------------------*/
+.profile-img {
+  float: left;
+  margin-right: 30px;
+}
